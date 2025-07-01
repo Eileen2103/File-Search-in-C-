@@ -5,3 +5,4 @@ expression. Leveraging std::filesystem for traversal and a configurable thread p
 number, and column position. Optional features such as case-insensitive mode,
 colored output, and summary statistics can be enabled without sacrificing core
 performance. Version 4 is the most stable one with the idle rate of the CPU's below %10,and with %100 performance.
+random_files.cpp file can be used to create 50.000 different files containing the keyword.
