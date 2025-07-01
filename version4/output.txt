@@ -1,0 +1,2 @@
+Total 'pokemon' count: 79010404
+Execution time: 6177 ms
